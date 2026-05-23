@@ -1,4 +1,4 @@
-# 🗓️ AI Weekend Planner Agent
+# 🗓️ AI Event Planner Agent
 
 An AI-powered ReAct agent that plans your weekend by combining real-time weather forecasts, live event listings, and route planning, all from a single natural language prompt.
 
